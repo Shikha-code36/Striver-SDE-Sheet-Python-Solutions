@@ -9,4 +9,5 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
 - [x] [Recursion and Backtracking](Recursion-and-Backtracking)
     - [x] [Subsets](Recursion-and-Backtracking/78-Subsets.py)
     - [x] [Subsets-II](Recursion-and-Backtracking/78-Subsets.py)
+    - [x] [Permutations](Recursion-and-Backtracking/46-Permutations.py)
     
