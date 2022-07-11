@@ -14,5 +14,5 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Combination Sum](Recursion-and-Backtracking/39-Combination-Sum.py)
     - [x] [Combination Sum II](Recursion-and-Backtracking/40-Combination-Sum-II.py)
     - [x] [Palindrome Partitioning](Recursion-and-Backtracking/131-Palindrome-Partitioning.py)
-
+    - [x] [N-Queens](Recursion-and-Backtracking/51-N-Queens.py)
     
