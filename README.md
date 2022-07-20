@@ -16,3 +16,5 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Palindrome Partitioning](Recursion-and-Backtracking/131-Palindrome-Partitioning.py)
     - [x] [N-Queens](Recursion-and-Backtracking/51-N-Queens.py)
     
+- [x] [Arrays](Arrays)
+    - [x] [Sort Colors](Arrays/75-Sort-Colors.py)
